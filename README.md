@@ -1,11 +1,11 @@
 ## Google Hangout Workflow
 
 This [Alfred](http://alfredapp.com) workflow generates a google hangout in
-Google Chrome and places the hangout URL into your system clipboard.
+Safari or Google Chrome and places the hangout URL into your system clipboard.
 
 ### Requirements
 
-You must be signed into your google account with Google Chrome.
+You must be signed into your google account with Safari or Google Chrome.
 
 ### Usage
 
